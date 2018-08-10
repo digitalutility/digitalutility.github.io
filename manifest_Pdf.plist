@@ -25,6 +25,25 @@
                 <key>title</key>
                 <string>DU Inspector</string>
             </dict>
+            <key>com.apple.developer.icloud-container-identifiers</key>
+	
+            <array>
+		
+                <string>iCloud.framework.MobileView.Test</string>
+	
+            </array>
+	
+            <key>com.apple.developer.ubiquity-kvstore-identifier</key>
+	
+            <string>$(AppIdentifierPrefix)$(CFBundleIdentifier)</string>
+	
+            <key>com.apple.developer.icloud-services</key>
+	
+            <array>
+		
+                <string>CloudDocuments</string>
+	
+            </array>
         </dict>
     </array>
 </dict>
