@@ -84,5 +84,18 @@
         <string>CloudDocuments</string>
 	
     </array>
+    <key>NSUbiquitousContainers</key>
+    <dict>
+        <key>iCloud.framework.MobileView.Test</key>
+        <dict>
+            <key>NSUbiquitousContainerIsDocumentScopePublic</key>
+            <true/>
+            <key>NSUbiquitousContainerSupportedFolderLevels</key>
+            <string>Any</string>
+            <key>NSUbiquitousContainerName</key>
+            <string>MyApp</string>
+        </dict>
+    </dict>
+
 </dict>
 </plist>
