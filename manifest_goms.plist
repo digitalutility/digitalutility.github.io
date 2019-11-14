@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://digitalutility.github.io/DU%20Inspector_goms.ipa</string>
+                    <string>https://digitalutility.github.io/GasOMS.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.udcus.MobileView</string>
+                <string>com.udcus.digitalutility.goms</string>
                 <key>bundle-version</key>
-                <string>1.0.1</string>
+                <string>20191112.1</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>DU Inspector</string>
+                <string>Gas OMS</string>
             </dict>
         </dict>
     </array>
