@@ -12,6 +12,12 @@ Allow Chrome to install unknown apps by going to <b>Settings > Apps > Menu > Spe
 https://www.lifewire.com/install-apk-on-android-4177185#:~:text=Download%20the%20APK%20Installer%20From%20Your%20Android%201,required%20permissions%20it%20asks%20for.%20...%20More%20items
 
 <h2>Download Package</h2>
+
+Download <a href=https://digitalutility.github.io/Android/com.MobileView.DU_Inspector.apk>Compliance Manager Android</a>
+
+Download <a href=https://digitalutility.github.io/Android/com.MobileView.DU_GOMS.apk>Gas OMS Android</a> 
+<!--
 To download package on your mobile device, click on product you wish to download then click on the elipsis '...' next to the file size and select download
 
 ![Screenshot_20230323_100551_Chrome](https://user-images.githubusercontent.com/19156856/227265204-3e9be6c6-148e-43a1-9eef-32666ccc5351.jpg)
+-->
